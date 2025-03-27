@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLibTest", "TestLibTest\TestLibTest.csproj", "{5DE4BCDB-9BE1-491C-A393-24265BBEA1FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubPackageTest", "GithubPackageTest\GithubPackageTest.csproj", "{5DE4BCDB-9BE1-491C-A393-24265BBEA1FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

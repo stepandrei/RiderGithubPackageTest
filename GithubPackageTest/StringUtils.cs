@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TestLibTest
+namespace GithubPackageTest
 {
     public class StringUtils
     {
